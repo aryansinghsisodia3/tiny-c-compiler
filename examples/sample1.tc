@@ -1,0 +1,9 @@
+// Sample 1: Variable declaration and arithmetic
+
+int x = 10;
+int y = 20;
+int z;
+
+z = x + y;
+
+print(z);
