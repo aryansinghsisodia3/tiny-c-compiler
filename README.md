@@ -94,11 +94,20 @@ factor       → NUMBER | ID | "(" expr ")"
 
 ## ⚙️ How to Run
 
+### Setup Virtual Environment
+
+![Setup](assets/setup.png)
+
+### Run the Tests
+
+![Testing](assets/pytest.png)
+
+### Finally, run this file 
 ```bash
 python main.py examples/sample1.tc
 ```
+#### Outputs
 
-
-
-
-
+![Testing](assets/sample1.png)
+![Testing](assets/sample21.png)
+![Testing](assets/sample22.png)
