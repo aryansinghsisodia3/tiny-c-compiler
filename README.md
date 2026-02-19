@@ -21,13 +21,13 @@ This project implements the core phases of a compiler including lexical analysis
 
 ## 🏗 Compiler Architecture
 
-![Stage Flow](assets/Detailed Stage Flow.png)
+![Stage Flow](assets/Detailed-Stage-Flow.png)
 
 ---
 
 ## 📁 Project Structure
 
-![Project Structure](assets/Project Structure.png)
+![Project Structure](assets/Project-Structure.png)
 
 ---
 
@@ -97,6 +97,7 @@ factor       → NUMBER | ID | "(" expr ")"
 ```bash
 python main.py examples/sample1.tc
 ```
+
 
 
 
